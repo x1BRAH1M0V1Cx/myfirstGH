@@ -4,4 +4,5 @@ console.log(x);
 var y = x;
 
 console.log(y);
+console.log(x*y);
 
